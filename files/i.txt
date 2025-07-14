@@ -1,5 +1,0 @@
-i
-Encrypted Message: xGOlwMgrt6fHEAKJLVvAww==
-Secret Key: 9921
-Please copy the above information for further use.
-Use AES algorithm while decrypting the message
