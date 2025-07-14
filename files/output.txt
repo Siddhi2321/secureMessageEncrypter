@@ -1,5 +1,0 @@
-Encrypted Message: xw2
-Secret Key: 7081
-Please copy the above information for further use.
-Use Default algorithm while decrypting the message
-Siddhi
